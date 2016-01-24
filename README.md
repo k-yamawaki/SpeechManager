@@ -1,2 +1,2 @@
 # SpeechManager
-Speech Detection
+Test for Speech Recognize.
